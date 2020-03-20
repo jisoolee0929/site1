@@ -1,0 +1,18 @@
+header {
+  border-bottom: solid 1px gray;
+  padding: 20px;
+}
+nav {
+  width: 200px;
+  height: 600px;
+  float: left;
+  border-right: 1px gray solid ;
+}
+nav ol {
+  list-style-type: none;
+article {
+  	float: left;
+  	padding: 20px;
+
+  }
+}
